@@ -1,3 +1,3 @@
 # TinyTask
 
-https://artemnih.github.io/tiny-task/
+https://artemtek.github.io/tiny-task/
